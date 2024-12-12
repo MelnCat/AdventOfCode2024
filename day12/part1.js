@@ -1,4 +1,4 @@
-111488414f=x=>{
+f=x=>{
 l=x.split("\n").map(x=>x.split(""))
     map = []
     
